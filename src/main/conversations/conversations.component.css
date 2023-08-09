@@ -1,0 +1,16 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height:43.6rem;
+  background-color:antiquewhite;
+}
+.con-header{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height:3.5rem;
+  width:100%;
+  background-color:aquamarine;
+}
