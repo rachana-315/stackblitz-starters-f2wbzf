@@ -14,3 +14,19 @@
   width:100%;
   background-color:aquamarine;
 }
+.msg-window{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height:36rem;
+  width:100%;
+  background-color: blanchedalmond;
+}
+.footer{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height:4rem;
+  width:100%;
+  background-color: brown;
+}
